@@ -83,19 +83,19 @@ h4 {
 }
 
 #Home {
-    top: 1200px;
+    top: 1400px;
     position: absolute;
 }
 
 #View {
-    top: 1400px;
+    top: 1600px;
     position: absolute;
     height: 150px;
     width: 250px;
 }
 
 #Castle {
-    top: 1200px;
+    top: 1400px;
     left: 300px;
     position: absolute;
     height: 150px;
@@ -103,7 +103,7 @@ h4 {
 }
 
 #Ocean {
-    top: 1400px;
+    top: 1600px;
     left: 300px;
     position: absolute;
     height: 150px;
