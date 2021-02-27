@@ -78,24 +78,24 @@ h4 {
 }
 
 #Spruce {
-    top: 1200px;
+    top: 1000px;
     position: absolute;
 }
 
 #Home {
-    top: 1400px;
+    top: 1200px;
     position: absolute;
 }
 
 #View {
-    top: 1600px;
+    top: 1400px;
     position: absolute;
     height: 150px;
     width: 250px;
 }
 
 #Castle {
-    top: 1400px;
+    top: 1200px;
     left: 300px;
     position: absolute;
     height: 150px;
@@ -103,7 +103,7 @@ h4 {
 }
 
 #Ocean {
-    top: 1600px;
+    top: 1400px;
     left: 300px;
     position: absolute;
     height: 150px;
