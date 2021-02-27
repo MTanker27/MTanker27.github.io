@@ -33,7 +33,6 @@ h2 {
 }
 #Para {
     left: 10px;
-    top: 1150px;
     position: absolute;
     color: chartreuse;
     font-size: 20px;
@@ -48,7 +47,7 @@ h2 {
     border: 2px solid darkviolet;
     color: darkslateblue;
     font-size: 13px;
-    position: absolute;
+    position: relative;
 }
 
 h5 {
@@ -79,24 +78,24 @@ h4 {
 }
 
 #Spruce {
-    top: 1600px;
+    top: 1200px;
     position: absolute;
 }
 
 #Home {
-    top: 1800px;
+    top: 1400px;
     position: absolute;
 }
 
 #View {
-    top: 2000px;
+    top: 1600px;
     position: absolute;
     height: 150px;
     width: 250px;
 }
 
 #Castle {
-    top: 1800px;
+    top: 1400px;
     left: 300px;
     position: absolute;
     height: 150px;
@@ -104,7 +103,7 @@ h4 {
 }
 
 #Ocean {
-    top: 2000px;
+    top: 1600px;
     left: 300px;
     position: absolute;
     height: 150px;
