@@ -57,7 +57,7 @@ h5 {
 
 #box3 {
     color: teal;
-    background-color: yellowgreen;
+    background-color: limegreen;
 }
 
 h4 {
@@ -77,35 +77,6 @@ h4 {
     color: darkslategrey;
 }
 
-#Spruce {
-    top: 1000px;
-    position: absolute;
-}
-
-#Home {
-    top: 1200px;
-    position: absolute;
-}
-
-#View {
-    top: 1400px;
-    position: absolute;
-    height: 150px;
-    width: 250px;
-}
-
-#Castle {
-    top: 1200px;
-    left: 300px;
-    position: absolute;
-    height: 150px;
-    width: 250px;
-}
-
-#Ocean {
-    top: 1400px;
-    left: 300px;
-    position: absolute;
-    height: 150px;
-    width: 250px;
+#box4 {
+    
 }
