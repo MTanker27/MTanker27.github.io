@@ -103,3 +103,10 @@ h4 {
     width:720px;
     height:350px;
 }
+
+#mtanker {
+    width: max-content;
+    top: 10px;
+    left: 150px;
+    position: relative;
+}
