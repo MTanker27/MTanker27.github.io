@@ -106,7 +106,5 @@ h4 {
 
 #mtanker {
     width: max-content;
-    top: 10px;
-    left: 150px;
-    position: relative;
+    text-align: center;
 }
